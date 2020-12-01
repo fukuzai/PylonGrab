@@ -4,6 +4,9 @@ https://github.com/fukuzai/PylonGrab
 # 概要
 pylon APIを用いた撮像
 
+以下にサンプルプログラムあり
+C:\Program Files\Basler\pylon 5\Development\Samples\C#\Basler.Pylon\Grab
+
 # 環境
 <ul>
   <li>Windows10 64bit</li>
@@ -14,9 +17,9 @@ pylon APIを用いた撮像
 
 # screenshot
 入力画像<br>
-![screenshot](https://github.com/fukuzai/TapeInspectorC-HALCON/blob/master/screenshot.PNG)
+![screenshot](https://github.com/fukuzai/PylonGrab/blob/master/screenshot1.png)
 
-![screenshot](https://github.com/fukuzai/TapeInspectorC-HALCON/blob/master/screenshot(1.2).PNG)
+![screenshot](https://github.com/fukuzai/PylonGrab/blob/master/screenshot2.png)
 
 # 改定履歴
 
