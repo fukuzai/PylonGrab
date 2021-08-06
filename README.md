@@ -34,6 +34,13 @@ C:\Program Files\Basler\pylon 5\Development\Samples\C#\Basler.Pylon\Grab
 
 ![screenshot](https://github.com/fukuzai/PylonGrab/blob/master/screenshot2.png)
 
+
+# USBカメラ(a2A1920-160umBAS)使用時のエラー
+USBカメラをハブ経由で接続すると、電圧(もしくは電流）不足により、エラーとなる。<br>
+パソコンのUSBポートに直接接続するとエラーなく動作する。<br>
+![screenshot](https://github.com/fukuzai/PylonGrab/blob/master/a2A1920-606umBAS%E3%82%A8%E3%83%A9%E3%83%BC.png)
+
+
 # 改定履歴
 
 <ul>
